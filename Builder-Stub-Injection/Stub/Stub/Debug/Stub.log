@@ -1,0 +1,4 @@
+﻿  Source.cpp
+Source.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:LBR'
+  Stub.vcxproj -> C:\Users\Álvaro\Desktop\C++\Builder-Stub-Injection\Stub\Debug\Stub.exe
+  Stub.vcxproj -> C:\Users\Álvaro\Desktop\C++\Builder-Stub-Injection\Stub\Debug\Stub.pdb (Full PDB)
